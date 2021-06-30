@@ -4,12 +4,144 @@
   "xrefmap": "xrefmap.yml",
   "files": [
     {
-      "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.AspNetCore.Builder.ProxyMiddlewareAppBuilderExtensions.yml",
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.AspNetCore.Builder.ProxyMiddlewareAppBuilderExtensions.html",
-          "hash": "drDOCi7kjHl9FS16wdsxKQ=="
+          "relative_path": "README.html",
+          "hash": "ImdeY0gnOUJfi04jl36d95LpoED4X09l94eioiqi2f4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BasicOperator.Generators.HelloWorldGenerator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BasicOperator.Generators.HelloWorldGenerator.html",
+          "hash": "ZdvUjV1Ykr9G6nd5U3QCGtWEx1r72Esz+5ZFXLmoA/4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BasicOperator.Generators.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BasicOperator.Generators.html",
+          "hash": "IllGp4bHj17xU5f6zq6lf71Gl8At/dQ5BqC5DttxprA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BasicOperator.Models.V1alpha1HelloWorld.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BasicOperator.Models.V1alpha1HelloWorld.html",
+          "hash": "nznrR/wqfPS8Vm2WWSMPERmB23KfIdyDESxQd26Y2D8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BasicOperator.Models.V1alpha1HelloWorldSpec.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BasicOperator.Models.V1alpha1HelloWorldSpec.html",
+          "hash": "MIY6W+F9/4xLAtfv+XHX7v4L5H1l05wcPrcBTfXa9UI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BasicOperator.Models.V1alpha1HelloWorldStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BasicOperator.Models.V1alpha1HelloWorldStatus.html",
+          "hash": "NnMs/n4zu/A674JxWJkXGhDWt++QmSpnmTDRYFJTYXw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BasicOperator.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BasicOperator.Models.html",
+          "hash": "/DsYxX7MclixJSaGq6o4qdQojrDjeyU/mNuBwfwlc3c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.AspNetCore.Builder.AppBuilderHealthExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.AspNetCore.Builder.AppBuilderHealthExtensions.html",
+          "hash": "janrlWDEqUO9YkK7cmGKsveZovABITrSOTRsvUkkzLs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.AspNetCore.Builder.AppBuilderLoadBalancingExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.AspNetCore.Builder.AppBuilderLoadBalancingExtensions.html",
+          "hash": "uiyGlsxURt+xY7OsLvUa5+osMNstfDfaQUv9KDpYIyo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.AspNetCore.Builder.AppBuilderSessionAffinityExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.AspNetCore.Builder.AppBuilderSessionAffinityExtensions.html",
+          "hash": "MNcQDfuHl1heaf5DfFNc8sFzNhq6d3Z+rUL2mzq1XX8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.AspNetCore.Builder.IReverseProxyApplicationBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.AspNetCore.Builder.IReverseProxyApplicationBuilder.html",
+          "hash": "UGRq9MX0uHJZUDVFUIwI1lA+xKSP9UCkTtpPi7/zAPA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.AspNetCore.Builder.ReverseProxyConventionBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.AspNetCore.Builder.ReverseProxyConventionBuilder.html",
+          "hash": "kGfcCQjI029RKPMjKE8O1h287jSsKyVpmfgr0zrqkts="
         }
       },
       "is_incremental": false,
@@ -21,7 +153,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.AspNetCore.Builder.ReverseProxyIEndpointRouteBuilderExtensions.html",
-          "hash": "K7upEOfeeYpKTnMNsgKaRA=="
+          "hash": "CUz7HT4jCqg20VEIeNx+vnSwu/6d5S9i7RV6J/WYjSY="
         }
       },
       "is_incremental": false,
@@ -33,7 +165,103 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.AspNetCore.Builder.html",
-          "hash": "NMSwnGHoGEmDpqQt5cT0XQ=="
+          "hash": "l0aBR3/wBqay4kDP4ugfmZHrHPqC/KJ1WTPlbHQxMy8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.AspNetCore.Http.HttpContextFeaturesExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.AspNetCore.Http.HttpContextFeaturesExtensions.html",
+          "hash": "hUNNIBxaHdSjSlSntnVO6WW6qeJLb8syQjVCcVwckFc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.AspNetCore.Http.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.AspNetCore.Http.html",
+          "hash": "PM+jlsadKhq47ZK/st2Uc6mNdTookph3+0DNdZJaP1s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.IReverseProxyBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.IReverseProxyBuilder.html",
+          "hash": "Wq+sYYrqIuJUvfoDpIA0qxeXN5jcHX5zsUcdte/IYD0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.KubernetesControllerExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.KubernetesControllerExtensions.html",
+          "hash": "ooTszfCosV6sUTWhCY75OdCvdf7tNLsSUi+L1ar73EM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.KubernetesCoreExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.KubernetesCoreExtensions.html",
+          "hash": "1tiR5MUKb73mfuegLCeSOxQ3/o3jrzfmTzTFpRGDlfo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.KubernetesCustomResourceExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.KubernetesCustomResourceExtensions.html",
+          "hash": "hgp3vxPgKdzAUylZpaPD6IGtAO0KG6kfvhKt7Vx1jvY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.KubernetesOperatorExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.KubernetesOperatorExtensions.html",
+          "hash": "yoV/0XamYZON4QK889JY5EPpHpLh0pKOOx4D/ZPDdfk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.OperatorServiceCollectionBuilder-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.OperatorServiceCollectionBuilder-1.html",
+          "hash": "1uc7KanzAoc6a2dEGW2op4yah1eNLadRKAzAnBSgsIM="
         }
       },
       "is_incremental": false,
@@ -45,7 +273,31 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Extensions.DependencyInjection.ReverseProxyServiceCollectionExtensions.html",
-          "hash": "WXQ0Rc4iOIDDkBKdq/PcQw=="
+          "hash": "Ord/sBvM8dK3uns9Hf9upD9ENEzT4wwnqUHy5nv2QGw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionHostedServiceAdapterExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.ServiceCollectionHostedServiceAdapterExtensions.html",
+          "hash": "Q1An3ifgH5FG8Z+MgC3LuN2jbvdzbMnTU2ABY35YX7E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Extensions.DependencyInjection.TelemetryConsumptionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Extensions.DependencyInjection.TelemetryConsumptionExtensions.html",
+          "hash": "DqeG6mdhapOX5H8kNmc3l+lsvAxbVsVDVrVoyBZcAQY="
         }
       },
       "is_incremental": false,
@@ -57,7 +309,7 @@
       "output": {
         ".html": {
           "relative_path": "api/Microsoft.Extensions.DependencyInjection.html",
-          "hash": "ResT0QiD9kyupR7Y6DgqUg=="
+          "hash": "bvX4fjIidFTV3lF+zxOWWRglca9uU7/xMkxFnLu48cM="
         }
       },
       "is_incremental": false,
@@ -65,11 +317,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.Backend.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Client.AnyResourceKind.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.Backend.html",
-          "hash": "aBRRjonWXXiOgtsMB7bUmA=="
+          "relative_path": "api/Microsoft.Kubernetes.Client.AnyResourceKind.html",
+          "hash": "XWl0zd2Tj/dv/woO2TILeBxUXDGrbpBdgM5x/qCVT38="
         }
       },
       "is_incremental": false,
@@ -77,11 +329,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.BackendPartitioningOptions.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Client.IAnyResourceKind.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.BackendPartitioningOptions.html",
-          "hash": "hEOVkpTAxcvezTncjnL+YQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Client.IAnyResourceKind.html",
+          "hash": "bYERfdptUDFzNpEe4MppNQCGT03RfHHo5Ge7qxtF8ak="
         }
       },
       "is_incremental": false,
@@ -89,11 +341,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.CircuitBreakerOptions.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Client.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.CircuitBreakerOptions.html",
-          "hash": "r9OuTmjCyj3ZZ1MKWNr3tw=="
+          "relative_path": "api/Microsoft.Kubernetes.Client.html",
+          "hash": "Q9w1JfysMAOm/NTvn03S3QpgFVtVZDwkXXinI3hCW44="
         }
       },
       "is_incremental": false,
@@ -101,11 +353,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.Destination.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.BackgroundHostedService.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.Destination.html",
-          "hash": "0s3hNOFN5Cycc/jVTRMrBg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.BackgroundHostedService.html",
+          "hash": "WWoNfTbzQuMENe3BR1tJ055mUePDNJ7U/ydLKa7m4VE="
         }
       },
       "is_incremental": false,
@@ -113,11 +365,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.HealthCheckOptions.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.BackgroundHostedServiceTests.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.HealthCheckOptions.html",
-          "hash": "IC/3hjEnH9gFbn9NOMLaHQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.BackgroundHostedServiceTests.html",
+          "hash": "f8tOBEmdKriztDPFn8ckK/0MCaST5q9hKWMyyTt73t4="
         }
       },
       "is_incremental": false,
@@ -125,11 +377,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.IBackendsRepo.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.FakeBackgroundHostedService.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.IBackendsRepo.html",
-          "hash": "LJwsaUDuICDYhDgbMmWVdg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.FakeBackgroundHostedService.html",
+          "hash": "VnaqYhrRdnX9U7+yusPSfVHBn7FbyhAH1eGHW2hoRE8="
         }
       },
       "is_incremental": false,
@@ -137,11 +389,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.IConfigErrorReporter.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.FakeServer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.IConfigErrorReporter.html",
-          "hash": "j2x61ikljfJIQXmOhX7LAg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.FakeServer.html",
+          "hash": "7ijWSgJYovpt1f8oTuJqbV6dY8x+c93pqlhJmOzE2i0="
         }
       },
       "is_incremental": false,
@@ -149,11 +401,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.IReverseProxyConfigManager.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.TestLatch.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.IReverseProxyConfigManager.html",
-          "hash": "RlvnRrdKxjZxb6xS24GctQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.TestLatch.html",
+          "hash": "pAt3zp7QbyQtm9cxZr3xjEVpfsxB+ZAOxOq54A0qmgE="
         }
       },
       "is_incremental": false,
@@ -161,11 +413,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.IRoutesRepo.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.TestLatches.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.IRoutesRepo.html",
-          "hash": "VORg1jXOVnzdSdbZTRq87g=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.TestLatches.html",
+          "hash": "EFuPR7oMk3RZpAEvO4zS3NH9bBkq7VyiqzLgZ7yy4K0="
         }
       },
       "is_incremental": false,
@@ -173,11 +425,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.LoadBalancingMode.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.LoadBalancingMode.html",
-          "hash": "LB2QRO03Wi4qVgiE9q9MMg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.Fakes.html",
+          "hash": "Sg+Mo4Cbe0tehJE2SaMHBGnki2MvBd62EA4eDeGmiqw="
         }
       },
       "is_incremental": false,
@@ -185,11 +437,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.LoadBalancingOptions.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.HostedServiceAdapter-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.LoadBalancingOptions.html",
-          "hash": "TPs/Kz+H+wr3Qg7LG/HnJA=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.HostedServiceAdapter-1.html",
+          "hash": "Pf/a/Mt+53ayRaniJH3nWPjiykBYOP8b2q4HwKU0cVw="
         }
       },
       "is_incremental": false,
@@ -197,11 +449,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.ProxyMatch.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.ProxyMatch.html",
-          "hash": "KhhC4lscA6B9LsSmolVDWA=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Hosting.html",
+          "hash": "f33qa7YOHA2YLv5Az33yYA8c47/EhTQMs3d0Fe2TncA="
         }
       },
       "is_incremental": false,
@@ -209,11 +461,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.ProxyRoute.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Informers.IResourceInformer-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.ProxyRoute.html",
-          "hash": "H+K8QNT00Fkpv8K3UL85zQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Informers.IResourceInformer-1.html",
+          "hash": "6D0l0+VLzJL7lnoNOR0LQI7B6ii7DeKzsR7M4uMFDSE="
         }
       },
       "is_incremental": false,
@@ -221,11 +473,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.QuotaOptions.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Informers.IResourceInformer.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.QuotaOptions.html",
-          "hash": "qLHwPx4M9LrynHMJNOEkhw=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Informers.IResourceInformer.html",
+          "hash": "yEVIT5P9G2JVvClVGBOqpAS0YPHm8EmBcTbMx1C5PfE="
         }
       },
       "is_incremental": false,
@@ -233,11 +485,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.Telemetry.IMetricCreator.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Informers.IResourceInformerRegistration.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.Telemetry.IMetricCreator.html",
-          "hash": "41oe3EA9DNXBia90QFrCKg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Informers.IResourceInformerRegistration.html",
+          "hash": "IOrZaIEbXF+ueJZwdYaY9LVLGuy6TBBu5Y7Uzp529wo="
         }
       },
       "is_incremental": false,
@@ -245,11 +497,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.Telemetry.IOperationContext.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Informers.ResourceInformer-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.Telemetry.IOperationContext.html",
-          "hash": "GMfZ8sZkritIW2CmXg9E/w=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Informers.ResourceInformer-1.html",
+          "hash": "8P0GBqnlxOhOmkewaU3dNyeJFo6ksuTqZiBtnNYEyJU="
         }
       },
       "is_incremental": false,
@@ -257,11 +509,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.Telemetry.IOperationLogger-1.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Informers.ResourceInformerCallback-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.Telemetry.IOperationLogger-1.html",
-          "hash": "oCn3Md/1u6nIvvnvjA5c8g=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Informers.ResourceInformerCallback-1.html",
+          "hash": "bwB+ij8GRd/KpuG0feefXpBRX1L6GGXRJZUQjgme9jA="
         }
       },
       "is_incremental": false,
@@ -269,11 +521,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.Telemetry.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Informers.ResourceInformerTests.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.Telemetry.html",
-          "hash": "2mk75iaEsXNQ5DKnWmXNig=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Informers.ResourceInformerTests.html",
+          "hash": "otNkec+1Ww4+Z7cCHHxdK1Sa3cXTILoNcwK19wyNWC0="
         }
       },
       "is_incremental": false,
@@ -281,11 +533,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.Time.IMonotonicTimer.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Informers.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.Time.IMonotonicTimer.html",
-          "hash": "94yrD0fxEeoj6lODwaVKxw=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Informers.html",
+          "hash": "0dSvkIlULFL9TCk/S4aDoC2b5+LEodjMCN3CSh/zejE="
         }
       },
       "is_incremental": false,
@@ -293,11 +545,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.Time.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Composition.DelayingQueueBase-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.Time.html",
-          "hash": "ya3KexAl6h59yDqBxHMCWw=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Composition.DelayingQueueBase-1.html",
+          "hash": "OLd8Ef1QxLki/cqgZbLlts3O9Jldgn6C90CBqu+n6II="
         }
       },
       "is_incremental": false,
@@ -305,11 +557,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Abstractions.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Composition.RateLimitingQueueBase-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Abstractions.html",
-          "hash": "hogC7RbvpeCSIRmCBFUvwA=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Composition.RateLimitingQueueBase-1.html",
+          "hash": "/tDiaR2/UJvKHBQh4wRahzE1c3eoM0/M+3ASmTMjejo="
         }
       },
       "is_incremental": false,
@@ -317,11 +569,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Configuration.DependencyInjection.IReverseProxyBuilder.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Composition.WorkQueueBase-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Configuration.DependencyInjection.IReverseProxyBuilder.html",
-          "hash": "NubtVp0T+O/NauHppPw1dA=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Composition.WorkQueueBase-1.html",
+          "hash": "jQwuTrYxiKt/+LYFf2X0GBeR8oxAdXU+Moe20SyRXFg="
         }
       },
       "is_incremental": false,
@@ -329,11 +581,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Configuration.DependencyInjection.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Composition.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Configuration.DependencyInjection.html",
-          "hash": "7KRSV8V+2X5sfq7A69cLWw=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Composition.html",
+          "hash": "/oKyGn76JAfhwBiJsIPahMFuq5BLyQvaJwL8P6849v0="
         }
       },
       "is_incremental": false,
@@ -341,11 +593,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Middleware.AvailableDestinationsFeature.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.DelayingQueue-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Middleware.AvailableDestinationsFeature.html",
-          "hash": "2Fm81kCe3XgR9K4eLi4MCw=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.DelayingQueue-1.html",
+          "hash": "yR4E893P80nN3mapCukNGiqgNXgfCI+HipM90jwQbT8="
         }
       },
       "is_incremental": false,
@@ -353,11 +605,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Middleware.IAvailableDestinationsFeature.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.DelayingQueueTests.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Middleware.IAvailableDestinationsFeature.html",
-          "hash": "C3/s2QQaUANSX/SNuDKOtQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.DelayingQueueTests.html",
+          "hash": "0cZ//obEGL1cMSmDu9kvvUaAXi2L3Wvvvtc2ciz+nKU="
         }
       },
       "is_incremental": false,
@@ -365,11 +617,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Middleware.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Heap-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Middleware.html",
-          "hash": "7Av3ySE+YF2+gcMziZ9Xeg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Heap-1.html",
+          "hash": "4LB4h4s92bM7sDe2Ien+EFPs7DQJjaE3opVpwoaBEcs="
         }
       },
       "is_incremental": false,
@@ -377,11 +629,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.DestinationConfig.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.IDelayingQueue-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.DestinationConfig.html",
-          "hash": "a57Iu4G5E4N5Mm3VWE6RmQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.IDelayingQueue-1.html",
+          "hash": "IDF5GDIiDc8yvq52NH7KbubIC8jxiCivHlr/EoMPCG0="
         }
       },
       "is_incremental": false,
@@ -389,11 +641,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.DestinationDynamicState.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.IRateLimitingQueue-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.DestinationDynamicState.html",
-          "hash": "0ci+hjl1EYcy3+mzxWFiHQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.IRateLimitingQueue-1.html",
+          "hash": "PT3jFYKXBQYerRRNy/UGBtdRd9pNkZbssIhzdcZBJZU="
         }
       },
       "is_incremental": false,
@@ -401,11 +653,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.DestinationHealth.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.IWorkQueue-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.DestinationHealth.html",
-          "hash": "vRnKwvub0/X51yK0t3Djug=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.IWorkQueue-1.html",
+          "hash": "flEbmza/xaDYLUW0jviQhk0fjrz+nbJ/H0LvN7sNDpw="
         }
       },
       "is_incremental": false,
@@ -413,11 +665,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.DestinationInfo.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.RateLimitingQueue-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.DestinationInfo.html",
-          "hash": "FwXx4UNccrWvJpCBHugIXQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.RateLimitingQueue-1.html",
+          "hash": "ykG63omnW38/TC1M4pwHsMH1X0bJHBBnX3vFCrCtjYQ="
         }
       },
       "is_incremental": false,
@@ -425,11 +677,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.RateLimitingQueueTests.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.RuntimeModel.html",
-          "hash": "6gIIovdCYc2388gXRktPrQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.RateLimitingQueueTests.html",
+          "hash": "NerDFX8CT6GrUDaYyZCxQIgPg3VtGFf3qiNF7ny8RMU="
         }
       },
       "is_incremental": false,
@@ -437,11 +689,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Service.IProxyConfigFilter.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Utils.Channel-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Service.IProxyConfigFilter.html",
-          "hash": "FsdGLGiUfdmyioO+r+nAJw=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Utils.Channel-1.html",
+          "hash": "/sH7Nh+OLs8eJHYGsTOU+vZ5usD9mx3V0+hw2R1PQO0="
         }
       },
       "is_incremental": false,
@@ -449,11 +701,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Service.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Utils.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Service.html",
-          "hash": "5f+8spBZx9+4vBF8sSzt7A=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.Utils.html",
+          "hash": "h+JeUFk1u97SBB4IikjQcvSKzCJIlyE8EpV9Ke/fnc4="
         }
       },
       "is_incremental": false,
@@ -461,11 +713,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.IReadableSignal-1.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.WorkQueue-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.IReadableSignal-1.html",
-          "hash": "ktt83hZmcrLGYFmzgQ8BBw=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.WorkQueue-1.html",
+          "hash": "XgCFXwnBEHUNDyzdVzFbfpXq8sxsMmPBCjmf37mDrMc="
         }
       },
       "is_incremental": false,
@@ -473,11 +725,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.ISignal.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.WorkQueueTests.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.ISignal.html",
-          "hash": "XRMidZ007J6Y4JrQCmMbmQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.WorkQueueTests.html",
+          "hash": "1lj1xYUknP0nLtMnOw+asGTSPdryp1Jo3jKsFl9yy00="
         }
       },
       "is_incremental": false,
@@ -485,11 +737,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.ISignalSnapshot-1.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Queues.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.ISignalSnapshot-1.html",
-          "hash": "Ggt8U0g/5XTxFpp8KEr8Ng=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Queues.html",
+          "hash": "55yp1fgjVLsSPl68Kbu6nXxTVgaNRXQMn3zmTbZGErw="
         }
       },
       "is_incremental": false,
@@ -497,11 +749,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.IWritableSignal-1.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Rate.Limit.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.IWritableSignal-1.html",
-          "hash": "8GnHWoYaU8ohM/ifMy17mA=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Rate.Limit.html",
+          "hash": "/7haDyrSgsnJlJ+dKl24CLSf7frUSk1vSdzlS+acHc4="
         }
       },
       "is_incremental": false,
@@ -509,11 +761,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.Signal-1.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Rate.LimitTests.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.Signal-1.html",
-          "hash": "XCp0DNTkycStTgr1BXuDng=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Rate.LimitTests.html",
+          "hash": "wef68oIvDJGbg7Y2z/H6/vg8hgmFi8xpaJ7Q+H9pblI="
         }
       },
       "is_incremental": false,
@@ -521,11 +773,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.SignalContext.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Rate.Limiter.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.SignalContext.html",
-          "hash": "ikToRx0hxYJxO4o3/KmBkg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Rate.Limiter.html",
+          "hash": "9PfENcpgPiHEaqidrdWxgarrZjCXEG8d1gGojGhi2Yk="
         }
       },
       "is_incremental": false,
@@ -533,11 +785,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.SignalExtensions.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Rate.LimiterTests.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.SignalExtensions.html",
-          "hash": "lgYK1VjIlSlO7tHmmEYsWA=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Rate.LimiterTests.html",
+          "hash": "ujZeBwgP6fh2cHRToR0Ixw4QYEtyPJU7zt/KMdvnlDY="
         }
       },
       "is_incremental": false,
@@ -545,11 +797,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.SignalFactory.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Rate.Reservation.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.SignalFactory.html",
-          "hash": "Id6O7wplRZWggv0amRtIvg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Rate.Reservation.html",
+          "hash": "dVau0bDlF2dwPx5DmT8SqzTt0BHBpXrjiol+XLnAWh8="
         }
       },
       "is_incremental": false,
@@ -557,11 +809,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.Unit.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.Rate.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.Unit.html",
-          "hash": "PuML+eP3qBHKVAJLWee33A=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.Rate.html",
+          "hash": "fnicoSKNg1a7EfJi9yp8AY1NeasK4uCLTSNr3kgInbs="
         }
       },
       "is_incremental": false,
@@ -569,11 +821,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Signals.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.BucketRateLimiter-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Signals.html",
-          "hash": "AvrU4gcFztJfk7x7elX/IA=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.BucketRateLimiter-1.html",
+          "hash": "U7q2PSvvC/iQYl5jDfXvB6F0ofMRIKC0d7pKuLZv/7k="
         }
       },
       "is_incremental": false,
@@ -581,11 +833,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Telemetry.NullMetricCreator.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.IRateLimiter-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Telemetry.NullMetricCreator.html",
-          "hash": "F62IYgsz2L+kUrH3S7X6tw=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.IRateLimiter-1.html",
+          "hash": "M1e1T1+7rorDVpslEN73jPnraflmKgdBGGMYAmtYlqU="
         }
       },
       "is_incremental": false,
@@ -593,11 +845,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Telemetry.NullOperationContext.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.ItemExponentialFailureRateLimiter-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Telemetry.NullOperationContext.html",
-          "hash": "7aMrnwlQJLGdBw4+GyeFrQ=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.ItemExponentialFailureRateLimiter-1.html",
+          "hash": "bLUU2c1JcoNcr7Ti1TjW5wnwU/vyGwr09nJ4C6a1m6E="
         }
       },
       "is_incremental": false,
@@ -605,11 +857,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Telemetry.NullOperationLogger-1.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.MaxOfRateLimiter-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Telemetry.NullOperationLogger-1.html",
-          "hash": "EEfg5WQS2Gn3byAFOb3A8g=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.MaxOfRateLimiter-1.html",
+          "hash": "T7EP5U/jV81QqZ0rm1+QuZd5nfkdsQ2mqaZO/u4xeeo="
         }
       },
       "is_incremental": false,
@@ -617,11 +869,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Telemetry.TextOperationLogger-1.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Telemetry.TextOperationLogger-1.html",
-          "hash": "IMvWIbNHwxFVo/PadLf3Cg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controller.RateLimiters.html",
+          "hash": "nkVXAP1A2DSa/6kLDB+iEtnuUwfuVLre9CuEFgKmTcs="
         }
       },
       "is_incremental": false,
@@ -629,11 +881,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Telemetry.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controllers.Rate.ReservationTests.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Telemetry.html",
-          "hash": "n/gLdiKo/vmX31/HUtBqIg=="
+          "relative_path": "api/Microsoft.Kubernetes.Controllers.Rate.ReservationTests.html",
+          "hash": "zZneKYXvdh8SItRtRCpQaA3lLk279cQNyJ2ghPHDyjI="
         }
       },
       "is_incremental": false,
@@ -641,11 +893,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Utilities.AtomicCounter.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.Controllers.Rate.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Utilities.AtomicCounter.html",
-          "hash": "CjYcobpNH+tXTZVhnbR6Ow=="
+          "relative_path": "api/Microsoft.Kubernetes.Controllers.Rate.html",
+          "hash": "DJfgJJZQhgPkHOW3riXQeGZmQA4IulDmXVhiEW3Ued8="
         }
       },
       "is_incremental": false,
@@ -653,11 +905,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Utilities.IRandomFactory.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.AnotherResource.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Utilities.IRandomFactory.html",
-          "hash": "VhudUwXgG/2cUdTAT94l7g=="
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.AnotherResource.html",
+          "hash": "ORnx+Vmbp3q31gvLkYaLG2LQPSPFmOWX6m57T0N5o6U="
         }
       },
       "is_incremental": false,
@@ -665,11 +917,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Utilities.IRecurrentActivityManager.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionGenerator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Utilities.IRecurrentActivityManager.html",
-          "hash": "Rgw7cUAtcHsM73wvAbwv6A=="
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionGenerator.html",
+          "hash": "0dln8o3tcmFDWxpCH4aTfAWj2TN8fqbhfynN8golizQ="
         }
       },
       "is_incremental": false,
@@ -677,11 +929,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Utilities.MonotonicTimer.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionGeneratorTests.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Utilities.MonotonicTimer.html",
-          "hash": "7jFIIhGHZjmlK+pdc1uNNQ=="
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionGeneratorTests.html",
+          "hash": "bnvVGZcNlNg/lxLjpRA++dTADZUGE8mmmEpbQsdNsmA="
         }
       },
       "is_incremental": false,
@@ -689,11 +941,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Utilities.MonotonicTimerExtensions.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionUpdater-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Utilities.MonotonicTimerExtensions.html",
-          "hash": "9wwBYTSt/WWhXSHclUtXVQ=="
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionUpdater-1.html",
+          "hash": "BVn/sIBu4mn6NKOBx5uvDlxVtwE96Y6nQkk4OIoV6eM="
         }
       },
       "is_incremental": false,
@@ -701,11 +953,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Utilities.RandomFactory.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionUpdaterOptions-1.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Utilities.RandomFactory.html",
-          "hash": "W4ArHsEq1/35ZyrT5jn0IQ=="
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionUpdaterOptions-1.html",
+          "hash": "W3uEbkT3OQM9e6me1aONGAO2zuWz55M4W6bnfAKQWDs="
         }
       },
       "is_incremental": false,
@@ -713,11 +965,11 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Utilities.RecurrentActivityManager.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionUpdaterOptions.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Utilities.RecurrentActivityManager.html",
-          "hash": "RA0u4J3GCpTzD5ghyB2x1A=="
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.CustomResourceDefinitionUpdaterOptions.html",
+          "hash": "MGM1gB4OMwUpBbTY3vQ67FbeGFX78jHEhWAT3UOzIEE="
         }
       },
       "is_incremental": false,
@@ -725,11 +977,3575 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/Microsoft.ReverseProxy.Utilities.yml",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.ICustomResourceDefinitionGenerator.yml",
       "output": {
         ".html": {
-          "relative_path": "api/Microsoft.ReverseProxy.Utilities.html",
-          "hash": "ZQiRT0+qs+2mes3YYZuNIA=="
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.ICustomResourceDefinitionGenerator.html",
+          "hash": "X6PVJ/Z+J2gISDGM1P0vDuwoAq63Fquyknzjdo6rrd0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.SimpleResource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.SimpleResource.html",
+          "hash": "5YvtybgBx64xVKyYWe2GZaI8MsZpXu6D8ifFmEsjTqw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.TypicalResource.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.TypicalResource.html",
+          "hash": "F7DmfJafQBuuAHGlG0UMwCn3y/HfcyufSDLz9Qec0QQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.TypicalResourceSpec.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.TypicalResourceSpec.html",
+          "hash": "MMTGsGgV7xfQIqTLlkDv1FvXF1Y1kHkcNV5Gn+MpISo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.TypicalResourceStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.TypicalResourceStatus.html",
+          "hash": "kZPZO+nlWK3iX+KFD8uaIltts3S7Pe4jOZ7rSvsq/Zw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.CustomResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.CustomResources.html",
+          "hash": "3GGI0oy5vuZdMsGo26h0vieLFDOIhk8vKYOtmK8T2A8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Fakes.FakeQueue-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Fakes.FakeQueue-1.html",
+          "hash": "XNH3VrC/dQuQC7vXsIZ4aQ/24IkHiIyFptNqvyiCmx8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Fakes.FakeRateLimiter-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Fakes.FakeRateLimiter-1.html",
+          "hash": "cZCDtIYxkevMVPpPFKWWdmUKadWWYnGOU6N3u7JxFE4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Fakes.FakeSystemClock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Fakes.FakeSystemClock.html",
+          "hash": "BY2U1lokmAIHWY+rLV7m8WvRT84feJ2YkMp2yxwdEms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Fakes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Fakes.html",
+          "hash": "taG77ahVFFMnnET3pWxLDViHnDkCqcIr58SFAHnphCA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.GroupApiVersionKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.GroupApiVersionKind.html",
+          "hash": "8CONhBe/b2dcuyr9xfTJt0m7z4KpaPV2tHVIhznV9JA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.GroupKindNamespacedName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.GroupKindNamespacedName.html",
+          "hash": "P9C2RBpNGSDemKkxQYZS/FArDREUJttsFe28CogDQ/s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.GroupKindNamespacedNameTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.GroupKindNamespacedNameTests.html",
+          "hash": "0EFog7MTuxDkglLFoOAmV0bOC/DFkv2TwmXhTHjuCRY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.KubernetesClientOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.KubernetesClientOptions.html",
+          "hash": "bKehhcJOTxuYAKQCLjb9Pie6WIAjc00kDSQAboWzXcY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.KubernetesCoreExtensionsTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.KubernetesCoreExtensionsTests.html",
+          "hash": "4IIxLFektDTTGnoG2pVBDx2D/z/p0T/wm5Uufrd9ab0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.NamespacedName.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.NamespacedName.html",
+          "hash": "wQn6JWt4kji4X3XQrgblGEZwwJcWkpuTOTfjGkZJUws="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.NamespacedNameTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.NamespacedNameTests.html",
+          "hash": "nxAQRqPH8kZSp5+gj/TFLRyCjKjtoZDwoYOC3xDV4v0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Caches.IOperatorCache-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Caches.IOperatorCache-1.html",
+          "hash": "P3RqiSDoVCVU5YZdHeFlGzF9MQBQ2jsqbFSCcqz+nOE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Caches.OperatorCache-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Caches.OperatorCache-1.html",
+          "hash": "ivxR5IynPm1XzqpTjTGvaYL1ZqKPwqiTaaRDZM1ZHz0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Caches.OperatorCacheWorkItem-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Caches.OperatorCacheWorkItem-1.html",
+          "hash": "VTij0c9K8pYEo6ti0/0v/ePO4Rw3IorvTin9Zs6uIGM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Caches.UpdateWorkItem-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Caches.UpdateWorkItem-1.html",
+          "hash": "Tj/PhPDFFe7GUO3o5vf+oR8WTLQQDumJlEvvSPSI/Q4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Caches.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Caches.html",
+          "hash": "Ft9DdxfJE6WNEf2tzhPX9ZMdkOXqmEsKcy4aqnls6Fs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.ConfigureOperatorOptions-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.ConfigureOperatorOptions-2.html",
+          "hash": "CUp1JBGCdz5Fd+yVfBhbh0S/498bp06lBPsftPyIvWw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.FakeResourceInformer-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.FakeResourceInformer-1.html",
+          "hash": "Fl5veqiLyCA3gK0gClprmLl4X0H7Vw7w/JUTKyyXcXY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Generators.GenerateResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Generators.GenerateResult.html",
+          "hash": "vtL8LsK6B3J23tGEbyvSDAcMzDL79BFfhcCAhXqoXUA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Generators.IOperatorGenerator-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Generators.IOperatorGenerator-1.html",
+          "hash": "BsrkpA/rNxY/5DUYfyJpkJEV2fKtbewHVWy9XVWbDGg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Generators.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Generators.html",
+          "hash": "Z0Xp+mtrc08724E4MFji57Ot0XkOwC6ZCtmi1yjDE2U="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.IOperatorHandler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.IOperatorHandler-1.html",
+          "hash": "MBqC7cpXw5sx5WONfXzIIjZZtJL4HtoH45Zpy9aA7Pg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.OperatorHandler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.OperatorHandler-1.html",
+          "hash": "7QkmRpXOHuIJ0FTW9ET4um3V75RcLdjD5xtb+WeSrsU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.OperatorHandlerTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.OperatorHandlerTests.html",
+          "hash": "Uhkv5JifWnAs4WLjR6KyGHT+QxJPd/VCljBHLCkRfoA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.OperatorHostedService-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.OperatorHostedService-1.html",
+          "hash": "6ThCZJ0iKKBOqY0lf+ytTK88f0dgSOT6FzxgoGeV/j8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.OperatorOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.OperatorOptions.html",
+          "hash": "Op8bF3WwFSbw2OLMCpiuTOoKSR/g0FPg0IgvvO1fwLw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.ReconcileParameters-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.ReconcileParameters-1.html",
+          "hash": "ni8vDavoVXMhxtohlA8zlitK6tSZSwwXDKe38tHWr7M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.ReconcileResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.ReconcileResult.html",
+          "hash": "vMVpCDWiJcVtDc6fBML9iJMSKcp6p2nZV1fAHvAgrmE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.IOperatorReconciler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.IOperatorReconciler-1.html",
+          "hash": "XtaHWARVOGiTngKWw9ixdYmpOmEzCcguzZjf1IZJQZI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.OperatorReconciler-1.UpdateType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.OperatorReconciler-1.UpdateType.html",
+          "hash": "o9kAA07tSA9vjCvKWzYWQa9XizXhETgR0zZBK+4o1uw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.OperatorReconciler-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.OperatorReconciler-1.html",
+          "hash": "HRmlXY4bh68YDJTdDOFkkK34wWT4hEPfU4YPnRq1+5s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.ReconcilerException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.ReconcilerException.html",
+          "hash": "KlZsJYV3PvZj5ds8Rec8INlPhaXsU4eKZ3AANbzXCn4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.Reconcilers.html",
+          "hash": "wu8tYKWrqw0bR8g5eWckC/45CPtP90vMfgyschYi9rs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Operator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Operator.html",
+          "hash": "Cs20G3r7eEmgtqOVGGVgW2EiYTDKU/VXYlgmBiUjOeE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKindProvider.OpenApi.OpenApiResourceKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKindProvider.OpenApi.OpenApiResourceKind.html",
+          "hash": "nkye8RSTctdiz7ySWBXPxvoQeNTAhw/LRtS6+LRUu0M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKindProvider.OpenApi.OpenApiResourceKindElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKindProvider.OpenApi.OpenApiResourceKindElement.html",
+          "hash": "zsAo+8CyHJd9ZKtoqKc3N6wIQk2w2vs4Qz+OwgVeUj0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKindProvider.OpenApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKindProvider.OpenApi.html",
+          "hash": "NMXLBdol1KLhXI7wdlLT5avSsvaiI4nygIUHUwf/Bj0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.DefaultResourceKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.DefaultResourceKind.html",
+          "hash": "lhpQFlPnHM+16TkLlC5mRBRL4ITKezV/1KJvakmWVt8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.DefaultResourceKindElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.DefaultResourceKindElement.html",
+          "hash": "DBB2ZOVri1w0dgtdV42VM1nnpexPafIpzx/CpGXiFps="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.ElementMergeStrategy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.ElementMergeStrategy.html",
+          "hash": "vFTl0/e5FOMIszpOXL0AMRjKEcn/McbkTFcAFyC+f98="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.IResourceKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.IResourceKind.html",
+          "hash": "BtpdmJlKBHcaqkvP5+o6vqF2rZ9E+DgL99dy8ixogKM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.IResourceKindElement.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.IResourceKindElement.html",
+          "hash": "+wMV/26FqT5e/p1FU0D3qCCu9IksCSWleqJO93nQ4NI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.IResourceKindManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.IResourceKindManager.html",
+          "hash": "KgbFSPv6V4lB/7GuVcgAaxvqKWg3iIFoe8kne4CGkzw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.IResourceKindProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.IResourceKindProvider.html",
+          "hash": "F1rWQTa2ejz2ROH5lPpJjmdFmTWwzVX6PYjywkUu6WE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.OpenApi.FakeLogger-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.OpenApi.FakeLogger-1.html",
+          "hash": "sSTq2qR8NkmICODbRzEizNKIDvsWlOyxTsRRXAVKC8k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.OpenApi.OpenApiResourceKindProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.OpenApi.OpenApiResourceKindProvider.html",
+          "hash": "YvPx/muS6kaKVMPx3ujhj8+NB6yq5HEgctBUavPknDc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.OpenApi.OpenApiResourceKindProviderTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.OpenApi.OpenApiResourceKindProviderTests.html",
+          "hash": "a1lKCxW/s2XC+cZtJpcHv0P6SsHE9493OVllX6e+zm8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.OpenApi.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.OpenApi.html",
+          "hash": "XMQEQHbbkl753YOfjH1QD+RQ1db0eEM/hDNA5L3c9Do="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.ResourceKindManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.ResourceKindManager.html",
+          "hash": "zuCPwZ3/BL53qhAoGad5Zme7kxIectfb/seqc1goXo8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.ResourceKinds.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.ResourceKinds.html",
+          "hash": "b+UGU50J4J6tdj4JIqYRd29N99hvpZS/GJmTxqghfeg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.CreatePatchParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.CreatePatchParameters.html",
+          "hash": "8KkRhOsl1X+bwRJiHZ000ngPgqr8tcEgJukmHCIsB4g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.IResourcePatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.IResourcePatcher.html",
+          "hash": "oQtF0S0fPGhh6dyq7nkyMBU+sytqD9WLQ30iRxUW1LM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.IResourceSerializers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.IResourceSerializers.html",
+          "hash": "iXQzSbofgamY8Ukz0vr6vfALr36JuWFp6Zeq3+ZEbHY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.Models.PatchOperation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.Models.PatchOperation.html",
+          "hash": "r3PANLaeNKxq4RrQaRilRiNW/wEUnfpKoGYimiKFhEs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.Models.ResourceKind.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.Models.ResourceKind.html",
+          "hash": "jkIidDTGjtw90rOan7mIM7AeJWYHQTHsHSTs1l8ealk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.Models.StandardTestYaml.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.Models.StandardTestYaml.html",
+          "hash": "DKov2Nf/6LBlC9d1/w76d+PRe1Ln8lea5HhD776DD0k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.Models.html",
+          "hash": "QJncd1ZcrLFfGMoIlxk4rT8ox7WWdov7acLq/w7mIfE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.ResourcePatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.ResourcePatcher.html",
+          "hash": "eR+67peJ6Alu5rgCB84nh7XkADetDtGt2O5cwI55yHU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.ResourcePatcherOpenApiSchemaTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.ResourcePatcherOpenApiSchemaTests.html",
+          "hash": "05li23GHMHODBBRz3CVK6mSWXXUB/oFXtz8INiI3onQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.ResourcePatcherTestsBase.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.ResourcePatcherTestsBase.html",
+          "hash": "1X7UD7Q3ljj3sGK2c2PVoiZy52o2Q0Th/AK3CGT3oeU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.ResourcePatcherUnknownSchemaTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.ResourcePatcherUnknownSchemaTests.html",
+          "hash": "E5d9221+4ifpCU/R09Db9jLUvS3cQPRNRIYOeL8Si24="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.ResourceSerializers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.ResourceSerializers.html",
+          "hash": "k2wicF8ifsTfH75t3uAVCJWY5BPAnyTQYzzeNJXBrCM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.ResourceSerializersTests.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.ResourceSerializersTests.html",
+          "hash": "0HJ24diCWI3Gw9oDZ1bDKikxVIqxH9IJbic8tE0NfSQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Resources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Resources.html",
+          "hash": "tyVUA5IDeVeX5J1BK7d1F47yaVnK1yxlHNlNExC4xmk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.ITestCluster.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.ITestCluster.html",
+          "hash": "aJMpfaldquIZljZjAKc9MYkjSRjSMMnr+YtTSgPj31o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.ITestClusterHost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.ITestClusterHost.html",
+          "hash": "tU7siI8IMpnqB+bOkEj6+QkBpxYZVRgnraIEhZTfOIg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.Models.ListParameters.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.Models.ListParameters.html",
+          "hash": "NusMV5m1O52RokHpYkUcAqENkjiRqwTzqdj0Iz5/CwE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.Models.ListResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.Models.ListResult.html",
+          "hash": "mSbb2vCRef+nlWXy3dsteN5/XDSzypt0rZzM+KeSd5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.Models.ResourceObject.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.Models.ResourceObject.html",
+          "hash": "bEyBKeu4856tlZAor/gklxfOOVrU2TL03k/DMhMOb6c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.Models.html",
+          "hash": "B+LIhnatDKEuVXWYkldX1txQIHOKxxYqD9lVHqhQLNU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.ResourceApiController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.ResourceApiController.html",
+          "hash": "iDGaD7Wmxmr7eKMWXj16knZEYBx12B3ApQIXnfO9CdI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.ResourceApiGroupController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.ResourceApiGroupController.html",
+          "hash": "GKROpA6DSucmkOiPBm//V8FAHhpNoPfk8ppakV5pStA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.TestCluster.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.TestCluster.html",
+          "hash": "slKx7R50uHj6NAjZA0nV/7COWqWGwz1cwyohIjqKq14="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.TestClusterHost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.TestClusterHost.html",
+          "hash": "uxIEA8HMrBybs7EKObgBsRHwGoiQ6QdlG7emV6h2r30="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.TestClusterHostBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.TestClusterHostBuilder.html",
+          "hash": "u2HMHG9hVqy0+qRdyOVcM3H16iu6TJl0V3zfRNfvPKM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.TestClusterOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.TestClusterOptions.html",
+          "hash": "beOlfwvRXj+1YswYCH1LflaGmEy1EjO1uGKIrbXSefs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.TestClusterStartup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.TestClusterStartup.html",
+          "hash": "UAyDU/xYCCygSodtLsqsCcbx0xbSGRPuoeB7WTNDd4M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Testing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Testing.html",
+          "hash": "3yorGMaYCzdABw7JcIqtHpf/8pwCRF7BuxaKrThlt4A="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Utils.TestYaml.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Utils.TestYaml.html",
+          "hash": "GDrGDA+CyUEf3YQ8EtATcTEeBgZumNYr2eZ9VU+/9ZI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.Utils.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.Utils.html",
+          "hash": "uSz5QdDyzua3aP0RkF7Hu3j8USj5/N9vxXaRixKAdIA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Microsoft.Kubernetes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Microsoft.Kubernetes.html",
+          "hash": "loTXzZchlSwtj9SF3ImD2kZgBwZuSOo62ExOHuk5gto="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PodStatusConditions.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PodStatusConditions.Program.html",
+          "hash": "MIBdAk2DnSHSQyz57Y+2NGevgrdDBGPwUzBbPXRez3Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PodStatusConditions.StatusController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PodStatusConditions.StatusController.html",
+          "hash": "f5dg1EeOd/pfat14a/7+1BfdegNgmhrtr246DZyHPOI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/PodStatusConditions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/PodStatusConditions.html",
+          "hash": "d6EfkK4kcSpXZvSMFoP9zL85LCQft+Gh6kof0fCx33I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.CreateOrReplaceExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.CreateOrReplaceExtensions.html",
+          "hash": "iwjH0ScKLAAMLUEgSnJzfNFu9ZXVd3QLoTbdjC2kROA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Models.V1alpha1Ticket.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Models.V1alpha1Ticket.html",
+          "hash": "aWUe38VrCnKV6TgX4pPnu9YyKRDMQ3u26M7L/QcpblU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProvider.html",
+          "hash": "W9SrOtMWySMAHgm3CnkvTAtHJbN9kYsxKEFydnHCc9E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProviderSpec.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProviderSpec.html",
+          "hash": "dMGEJqKLJolSHi3F+SXmljptC2aUS4clNhc9SGnAuSU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProviderSpecAzure.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProviderSpecAzure.html",
+          "hash": "HMd4+FLMW1uf06c1HU1sT/l1DPVwjLykif7LZ5x472Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProviderSpecGitHub.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProviderSpecGitHub.html",
+          "hash": "jBhNDrorRCkJaL8G1QP2hJCizLOkKMGFxNVSXka19zc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProviderStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Models.V1alpha1TicketProviderStatus.html",
+          "hash": "y/ysouAxMF29L1D5BiGP6ZTjFuKwh8dwR0qUwcwSZ3Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Models.V1alpha1TicketSpec.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Models.V1alpha1TicketSpec.html",
+          "hash": "Afxf04ziCDKehB34k+QYPdXH4NLfJh/5yCiFr+4jgUM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Models.V1alpha1TicketStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Models.V1alpha1TicketStatus.html",
+          "hash": "uyAwRiDDjEgf4ZgAtVHuozdnI+5j0dPcNedybZOZ574="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Models.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Models.html",
+          "hash": "fi92pp8yEKMEh32BWd4Db2hJG5RDisZRXLlHfQ/ceI0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.Program.html",
+          "hash": "8dtmUZAIv83F855LHqkAPAgJ6S/Op5FS6+Ktb6dwe9I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/UsingCustomResources.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/UsingCustomResources.html",
+          "hash": "vnNJw1ZiH5w0C/vmR4FyVqMBDtnClARU0yvZERbrXtA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.ActiveHealthCheckConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.ActiveHealthCheckConfig.html",
+          "hash": "lhO6wh46yOY8CRLh82Mb7A7p5JUirGg2r/zfUXCUjPk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.ActivityContextHeaders.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.ActivityContextHeaders.html",
+          "hash": "V3exbp48LugfK2cjTU9GDx29hmPnfMezH5g7m3KDB5Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.ClusterConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.ClusterConfig.html",
+          "hash": "hNimCneKPk76L3AM43dVJyTiNLq7KbyxYifZyEvrCLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.DestinationConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.DestinationConfig.html",
+          "hash": "cVO4Wgwqu/EGPPO6Xxqwo634SxOZxA3+97wIZt6tkdE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.HeaderMatchMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.HeaderMatchMode.html",
+          "hash": "bhEJo4goeqnI1WyOeMMTj5mzwVikymg1rPrAtXBNJkM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.HealthCheckConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.HealthCheckConfig.html",
+          "hash": "akH7yAy07nDVqwodyxCYmDv5jLg1fheTfAQ2Axaaz/E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.HttpClientConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.HttpClientConfig.html",
+          "hash": "asIL1SSpi8UNNBUSvSTBdLxo2/jbGsLDi6zzpyRrGDI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.IConfigValidator.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.IConfigValidator.html",
+          "hash": "Flel+9V64iFNumcceWT+gb8cSCz8H0LH61QV1rGzgH4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.IProxyConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.IProxyConfig.html",
+          "hash": "BsA1RA0ZkgzAvNkGUN+racFwny9Cv/tVURc0hbbnZEg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.IProxyConfigFilter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.IProxyConfigFilter.html",
+          "hash": "J9LKis9t8xqC1wu3R9Iz1PASvSCJh8j88HMASNZUwxo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.IProxyConfigProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.IProxyConfigProvider.html",
+          "hash": "R8UaIa4Nk2K4lgV3kYzNHw8U9+Ni6kReN/POk1WYkbk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.PassiveHealthCheckConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.PassiveHealthCheckConfig.html",
+          "hash": "wQJTLmU1WL1CmsGS2wszlyFLj0wkBPloBt86/Z8Llmo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.RouteConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.RouteConfig.html",
+          "hash": "EEGwWwgmXFvKpzPAKZJkMf17vNb74VXJpHeJoRowCxM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.RouteHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.RouteHeader.html",
+          "hash": "MyPR+nWqXhwNaUaAHbhF0rGdFt1YHewoQx5J1MBsaz0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.RouteMatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.RouteMatch.html",
+          "hash": "8LfATz1L8J5dX+wJX0h59d80pWQVc2GZJsLYPItsE0E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.SessionAffinityConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.SessionAffinityConfig.html",
+          "hash": "ovjqaM6ZBIOw7AzpQ7EzldX7s7xsTRkUL/JHO5Bhcbk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.SessionAffinityCookieConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.SessionAffinityCookieConfig.html",
+          "hash": "yHkradbdAP+aRxBvwp66pVRbqNXdL9oFy85ofqu2xHI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.WebProxyConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.WebProxyConfig.html",
+          "hash": "0+czAQeJwyTrszvpzl1gwTBXOC+/zmn/yX1pV+wCx84="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Configuration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Configuration.html",
+          "hash": "s//SfbWMkS06Ns0nknG4bBMhV12sQsfzM0Z7nrsRhzU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.ActivityPropagationHandler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.ActivityPropagationHandler.html",
+          "hash": "n/0OBZOi7qwSS67yoX/Wg0utxBWx52tnbmC4IVlBWRM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.ForwarderError.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.ForwarderError.html",
+          "hash": "Rq/WTKhI2YFJMonzIE4vv1KTRuLw1PBaI1wRjEyROro="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.ForwarderHttpClientContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.ForwarderHttpClientContext.html",
+          "hash": "kUWdwCMUpKHMLTm6oATgwGv4g+f7kTZCGAgwcr8AfLc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.ForwarderHttpClientFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.ForwarderHttpClientFactory.html",
+          "hash": "ljsqinRUZC6CRY0w2ce5+pGYQODrXnTKu1EOWSj+rAU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.ForwarderRequestConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.ForwarderRequestConfig.html",
+          "hash": "yKjBXQxsmu68gjT+O+xQCrsIePqCDbdFTSEnUzwzvgY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.HttpTransformer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.HttpTransformer.html",
+          "hash": "KXJpy1V3J0VnK++UXnNDA/P3wJ/uCj6OvKkTkhCNGKo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.IForwarderErrorFeature.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.IForwarderErrorFeature.html",
+          "hash": "zBghzX/VMPYlWYODtN8gO05MtXxesH+GV8b15aPkcVI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.IForwarderHttpClientFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.IForwarderHttpClientFactory.html",
+          "hash": "vE9ZPn2BfuwwsWkPZ0HXGhbOBowdtjsZzpHWqSNBemw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.IHttpForwarder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.IHttpForwarder.html",
+          "hash": "OANZXS2fv/bMKzZavnMdT3/oJEUV/T5/zCwLWp3qctI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.IHttpForwarderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.IHttpForwarderExtensions.html",
+          "hash": "YvKEL+er/yB2wYH9uGLZYyd/aHggM8xwKYhvmq9vpaE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.RequestUtilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.RequestUtilities.html",
+          "hash": "+KRsuAYKab89VY2QWWIjtBH78nXgTYi1hP4B27uGspY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Forwarder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Forwarder.html",
+          "hash": "F7m02IkCoBCElrX3+SVPGxPJ9bJapCb1JnOTNg2jLyw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.ActiveHealthCheckMonitorOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.ActiveHealthCheckMonitorOptions.html",
+          "hash": "scRnKQ3JjADULQXEDp/FLA9XCrhpzeeV+4+QPY/28T8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.ConsecutiveFailuresHealthPolicyOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.ConsecutiveFailuresHealthPolicyOptions.html",
+          "hash": "ecUsrjHW/WdzfgA7XJ8hKiSJYvea9TE8yHT5mWemJRo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.DestinationProbingResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.DestinationProbingResult.html",
+          "hash": "ksAg6H+tRTp9kzev7KmnEPs3Rkf7Jb25mT1z92r6II0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.HealthCheckConstants.ActivePolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.HealthCheckConstants.ActivePolicy.html",
+          "hash": "QxSuf5BFxD0Sv7BxvK8r4hFdyom6ZeekOoYNtZ1sX3E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.HealthCheckConstants.AvailableDestinations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.HealthCheckConstants.AvailableDestinations.html",
+          "hash": "URAI880+Qn15GSHCEEFljk31byQEsaUPb8xeR1KVlR8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.HealthCheckConstants.PassivePolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.HealthCheckConstants.PassivePolicy.html",
+          "hash": "2KfelEahmTQvDM5UOyzHs1QJw+8lf2hWqHlL3Dh1tzs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.HealthCheckConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.HealthCheckConstants.html",
+          "hash": "pLXgqFy56QhlYupSYtfgwLy/pizCKttE9icERvN59qY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.IActiveHealthCheckMonitor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.IActiveHealthCheckMonitor.html",
+          "hash": "W930mjtDnL2VQK5W77dfHKPIaStLLZY0TkgjY8KrRfo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.IActiveHealthCheckPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.IActiveHealthCheckPolicy.html",
+          "hash": "xoqlSqLGd4ZgfaBH9yx/Yrl+xY2WEv6Dn7AhXDdC6g0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.IAvailableDestinationsPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.IAvailableDestinationsPolicy.html",
+          "hash": "Fg6sS8BgYsp2767ex/f0hMQHWItmv4WwEl2pPH9eIjg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.IClusterDestinationsUpdater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.IClusterDestinationsUpdater.html",
+          "hash": "bvGPeJwmvuSSzNjsLy7In/T5byaLnPcpGI6SGHOKTSo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.IDestinationHealthUpdater.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.IDestinationHealthUpdater.html",
+          "hash": "RQd+EZp4km7WyQMNy91lIeJaleOPooHajGn1vdvCQRA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.IPassiveHealthCheckPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.IPassiveHealthCheckPolicy.html",
+          "hash": "qBMoU+pl4b+ebsZ7WSPzQqjT6B/8b0AUU1Hss1URpuw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.IProbingRequestFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.IProbingRequestFactory.html",
+          "hash": "Zqowz/RrpfgYiqKfXqH5lcaCDSpoGY5zCexJD8K1w2Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.NewActiveDestinationHealth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.NewActiveDestinationHealth.html",
+          "hash": "iQB9NyXCyZbglZBetehraZJceHJlTYJFvXvO+NQ2lnc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.PassiveHealthCheckMiddleware.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.PassiveHealthCheckMiddleware.html",
+          "hash": "7HOSGywbS8mCkj/QgQbaGD05883OA4cwLFacHbwPoJs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.TransportFailureRateHealthPolicyOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.TransportFailureRateHealthPolicyOptions.html",
+          "hash": "pKGU2LLyaC0wrCqvGLKR6uF7ZVntdURBuK5AIHMGiFs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Health.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Health.html",
+          "hash": "bJ+DGqnx6UidRje3PbiOFwfVJq8ar3T64casXF/8WmQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.Endpoints.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.Endpoints.html",
+          "hash": "Jje3XdCujgvUll9eWL2RLgv8eL1R3VQ0HmNCwEItYHg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.ICache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.ICache.html",
+          "hash": "C3f2CUr0IxVP9vD+13OmFPm3g4q6OUEoKbAEmuJCLX8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.IngressCache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.IngressCache.html",
+          "hash": "pIbVirXjKdXKYtItMa7NTWK0ZTxJjZ4SLPdYEvhORfc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.IngressData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.IngressData.html",
+          "hash": "oqNa7gYe19oRrY73+T/J5KhQI6XQoERIJxFdCnyMjC0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.NamespaceCache.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.NamespaceCache.html",
+          "hash": "Jpd2wtvg6eMWsxWmjQoO5C9/kcuMWSDZ+TUBo9WRgJ8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Caching.html",
+          "hash": "f8bed18roZEc6maFg63oWPTae10+Gkjja647cnlEuUw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Controllers.DispatchController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Controllers.DispatchController.html",
+          "hash": "b+1zD+WdjkHIuhk2Q446UjMSgnraVol3QDZP3fnHsck="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Controllers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Controllers.html",
+          "hash": "p/u9PkOEe9twyo94iXLJLwvq92CPSMj4fomCGFLGclQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.DispatchActionResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.DispatchActionResult.html",
+          "hash": "/EVOcnR2oHgDgYMGaMPDybRbdkj3Ng6h4mReXpuXxfg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.Dispatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.Dispatcher.html",
+          "hash": "ESkDjRchGtNtOGBKnxx36Ty1tjsaxF08qOnY2PKRFoY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.IDispatchTarget.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.IDispatchTarget.html",
+          "hash": "btLcN1e36zON400Z1KglzcPX32nmnt57YOspMe2TpJI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.IDispatcher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.IDispatcher.html",
+          "hash": "gnuf2LJNhLdkr2N7hNlJYhbxPrPr11ek71f1v+6mNzo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Dispatching.html",
+          "hash": "3xReUN/KQSNhn+3LdAP2x4ORroGZPpganv1aEqkyE6Y="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Program.html",
+          "hash": "9goHFOtI9GPz1mK69WrNlDGd/pYp0V/5HvVkUSR7PQ4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.IReconciler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.IReconciler.html",
+          "hash": "UE+Xteixi8Ok7rbDO4TUonOpXhlbZVBrmtRBVcAWq5M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.IngressController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.IngressController.html",
+          "hash": "RCtk9eOagCQ4zwCFBs/Lvwa2Wp/3mP5n3PrDOi73aew="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.QueueItem.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.QueueItem.html",
+          "hash": "pLjlg4mCteZKf7sgDX9Wx/9KfpLIjkckNXwhmCvvZjA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.ReconcileData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.ReconcileData.html",
+          "hash": "4ynUCEcWjh7O2QOmcKsk4yuKJk3dj7CWbIyomkx8tDA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.Reconciler.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.Reconciler.html",
+          "hash": "W3KEFCWjf1ok1hFDks2m5LhV7Id5eS/a+RJT2YbdUhM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Services.html",
+          "hash": "3HOR8qqbyrII8HDHHww8u4PoSp3ae3NEjh2L4dyUM0w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.Startup.html",
+          "hash": "Iyu/GRrFsmRxTy0HyxeJb32FY0k+y2/1sjCx80y0qPQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Controller.html",
+          "hash": "+3OBhAjz2FQhWG/P9oQaRxqlDIb6X25Mms9wD5X2PWU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.IUpdateConfig.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.IUpdateConfig.html",
+          "hash": "y7PRGH3wQvmVMxunJHSdPOCmYfM5Bd7ljdvdSuPmrec="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.Message.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.Message.html",
+          "hash": "E+QfZVFg5AxC+kKWKzE2Poddhx1G/2EkrwQsETzqPCs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.MessageConfigProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.MessageConfigProvider.html",
+          "hash": "DNOqU74E7S4hLSciiMT5pHP/KSE7oGPtTukczLfYJvw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.MessageConfigProviderExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.MessageConfigProviderExtensions.html",
+          "hash": "qviQFSiNGv7FmLgkJqeQsnKaR8pMo/O276t9gTm06aw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.MessageType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.MessageType.html",
+          "hash": "hyCmroct/J0o6k++OJ09I3adQ7BB7x6Xqov3aL/ZJdY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.Receiver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.Receiver.html",
+          "hash": "3vHiYQOEqb5y5OUpXvB/gVJCJYG34/A3G2AAgC2Edtg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.ReceiverOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.ReceiverOptions.html",
+          "hash": "WIS/r+udc1flJWWTh6DlorgmFsTmlRGTswrx6RyILfM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Kubernetes.Protocol.html",
+          "hash": "zngD8W3syVNKl3/EuDe1QXzbh1FD85LuEQCuGgKOBCc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.LoadBalancing.ILoadBalancingPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.LoadBalancing.ILoadBalancingPolicy.html",
+          "hash": "Dp0WSSOGhoyJ42mHtlmE21f5gCQCfAoeX8uE94+XN1w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.LoadBalancing.LoadBalancingPolicies.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.LoadBalancing.LoadBalancingPolicies.html",
+          "hash": "frAxhPuJqMqIwI9h0R28f4EaQ4Wwe4Q63EY278/Mm4Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.LoadBalancing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.LoadBalancing.html",
+          "hash": "qv3I4uWLK1lLAuj3YefCvaKhuqKElMJ3sR30z+8o/0k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.ClusterDestinationsState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.ClusterDestinationsState.html",
+          "hash": "wrjHO3NY30VFHA5p4iRJJAzmzlZS94+zE9wzy6xmgkc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.ClusterModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.ClusterModel.html",
+          "hash": "2oVkhU1oi76O+ECjxK0ftQ3fCn0/g3Jof7XK+4Au/nM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.ClusterState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.ClusterState.html",
+          "hash": "Sqea5zii2VYZfCJp36bnpoWsbBQqVYmCdmIjvfleM+8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.DestinationHealth.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.DestinationHealth.html",
+          "hash": "daEu9136aRPWUm6zThdO4KT6Zxfojc02vNJCtd7oI8I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.DestinationHealthState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.DestinationHealthState.html",
+          "hash": "GDRBU6mrV9y9D3omnszdyVh2OQ9znhFz/ucA0VIRViw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.DestinationModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.DestinationModel.html",
+          "hash": "6zvAh/3Kj7Qt5uk7DHqy7m52l3X4AKZEPRiEiJvCpKE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.DestinationState.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.DestinationState.html",
+          "hash": "/lDKJ2nXiekqvSIYOARWOBlFxJj13orCQGC4G5Ssdsw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.IClusterChangeListener.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.IClusterChangeListener.html",
+          "hash": "+S1NuELw5RH2kFf/7GomPx9tip5Cyhzk6tSO7NTZWAA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.IReverseProxyFeature.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.IReverseProxyFeature.html",
+          "hash": "a2YP8N8c9w4a8WuTzAcEFQQvHT1Wr45iGmElq3zcLEw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.ReverseProxyApplicationBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.ReverseProxyApplicationBuilder.html",
+          "hash": "42dHr1I1n4MBlGOw8OUeqS4MZS8r8oms/M/DEdwkiwg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.ReverseProxyFeature.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.ReverseProxyFeature.html",
+          "hash": "b+U4zT501tGapTk9/UIjnwClzjqUgTdspEyTruhRQKY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.RouteModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.RouteModel.html",
+          "hash": "auqARWVPphaVPXXDHCsH+OvcN1zo385k9Oa9+zSAkpU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Model.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Model.html",
+          "hash": "GNGsUWvXyDFAQ0E208I8IA1VrTgVPG7NZPBOI2OF+Pg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.ServiceFabric.ConfigException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.ServiceFabric.ConfigException.html",
+          "hash": "S7obXK2AFo1BQZ+pwchiAVgxD915xhcBfWpc4okyn50="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.ServiceFabric.ServiceFabricDiscoveryOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.ServiceFabric.ServiceFabricDiscoveryOptions.html",
+          "hash": "IQVRRtpGFHMlOZBmwqK5ZRo6kov74mkk3AdZrSqO8hg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.ServiceFabric.ServiceFabricIntegrationException.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.ServiceFabric.ServiceFabricIntegrationException.html",
+          "hash": "nI+zqRQ2vUwc4YbZZ0itUlX5zoK40CoIo8GFzbsaW7g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.ServiceFabric.ServiceFabricServiceCollectionExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.ServiceFabric.ServiceFabricServiceCollectionExtensions.html",
+          "hash": "1aMTaTnVBxYqPeNeW02GiCSk7WsPF0g+MlF6k8h6hUQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.ServiceFabric.Utilities.Cache-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.ServiceFabric.Utilities.Cache-1.html",
+          "hash": "NrXSyHApXkvXl3jAJbcB1Sx2yo8jATVv+5h+eTBv/s8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.ServiceFabric.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.ServiceFabric.Utilities.html",
+          "hash": "jz5c3ya8PoidiTUwG2c89WS1ELod+yGqAA8wZIdqHBI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.ServiceFabric.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.ServiceFabric.html",
+          "hash": "IirMy9Jz3DUTVavTivD+o5I8OC8gTmqsoXdg4JPrDuk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.SessionAffinity.AffinityResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.SessionAffinity.AffinityResult.html",
+          "hash": "RVCpM1dDL0Q7QL7nUO3rpUjBXRLGwaYws7NYylPP/8I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.SessionAffinity.AffinityStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.SessionAffinity.AffinityStatus.html",
+          "hash": "GVQ5M3QsV/ftQZb1LNMBqcmQoipNx0lO1moZC1sewP4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.SessionAffinity.IAffinityFailurePolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.SessionAffinity.IAffinityFailurePolicy.html",
+          "hash": "5BRunstgysqdIFcv617ZbUKQAx1qowQO8eWTzoc22Y8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.SessionAffinity.ISessionAffinityPolicy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.SessionAffinity.ISessionAffinityPolicy.html",
+          "hash": "2FgK8amS0SfQL26GGTy7pT62vNyuUIeBsanpmTeNcl0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.SessionAffinity.SessionAffinityConstants.FailurePolicies.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.SessionAffinity.SessionAffinityConstants.FailurePolicies.html",
+          "hash": "3rzna/d4zJywJVKtl+ffizOh5lhs/iIp6c76GSWclZk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.SessionAffinity.SessionAffinityConstants.Policies.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.SessionAffinity.SessionAffinityConstants.Policies.html",
+          "hash": "MQQ0UlpnmyGTlzS44ki1eOacwG/3qACdU47MjYxGJ14="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.SessionAffinity.SessionAffinityConstants.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.SessionAffinity.SessionAffinityConstants.html",
+          "hash": "dZ6MgSqsTai4Y6HmIPsfQigZlHu9/3SJmYS+urPnexw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.SessionAffinity.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.SessionAffinity.html",
+          "hash": "8dVvDgk39001ef6jfd900TfgA3dsjAOi0YyTsDm9QJU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.ForwarderMetrics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.ForwarderMetrics.html",
+          "hash": "Qkb+hXy7t4GHvDDXnm6/AF//oZcYlGtLw2HV1pS3AeQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.ForwarderStage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.ForwarderStage.html",
+          "hash": "+1wbjo9pBvRSAeIYf4+Jv/c3sto4W4xE9g3UAMn0xxE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.HttpMetrics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.HttpMetrics.html",
+          "hash": "KQJYwiBb5XKx1si8fWlB1tlrN7g6Sv2AmdQUacXfymw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IForwarderMetricsConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IForwarderMetricsConsumer.html",
+          "hash": "SAxOU6VgiVkTIY6W+1mQYkkk5x70lik9dosQp7hpB1Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IForwarderTelemetryConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IForwarderTelemetryConsumer.html",
+          "hash": "gd58wsF9bYuILLsVwsOiLcIjnEj5QfljwLeRlrKkw/4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IHttpMetricsConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IHttpMetricsConsumer.html",
+          "hash": "SGxJUTkxomTueYBr20VKZm56flFwb9fTxQU1A9/kTdM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IHttpTelemetryConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IHttpTelemetryConsumer.html",
+          "hash": "lVS6FNHEzlZZUxmB0aaa7qpr5ICsFUvvT4oKQ53IblY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IKestrelMetricsConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IKestrelMetricsConsumer.html",
+          "hash": "4dmum0oCjCWUv7qQYX8JkZIvb58EzsxnK5gtXw5t09I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IKestrelTelemetryConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.IKestrelTelemetryConsumer.html",
+          "hash": "grQynAmEv4fKTjzMsr40DQShnf8aPG0BtKexNQ9MORQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.INameResolutionMetricsConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.INameResolutionMetricsConsumer.html",
+          "hash": "9hmKGMyCQ9WPJ5pHL0VBdPIqqijvATr+WJe7byRbITE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.INameResolutionTelemetryConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.INameResolutionTelemetryConsumer.html",
+          "hash": "Rm4jacGuK69RnjPEXL88Yw1n3hpq08c1bJSeGOwM6zA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.INetSecurityMetricsConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.INetSecurityMetricsConsumer.html",
+          "hash": "MtfDBKd5kwUmOGCaBqFI7xGKKi+1vNrMhnC3K74iHHQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.INetSecurityTelemetryConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.INetSecurityTelemetryConsumer.html",
+          "hash": "E2Igszqoi6Zhd1/BoD/9BN13as1CXeVI/XbIr/DLi74="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.ISocketsMetricsConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.ISocketsMetricsConsumer.html",
+          "hash": "gYMLgBnwtmsm8nLuTq418jF9Y/N6BB8aS+yyIKd7Mm8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.ISocketsTelemetryConsumer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.ISocketsTelemetryConsumer.html",
+          "hash": "pLPUwQQFoaE4say4rpYzLZeAs7hJ3oryJ9O+IQoG5tU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.KestrelMetrics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.KestrelMetrics.html",
+          "hash": "CmpVyUzgQmY2xbcVBmGjDXKq9ymCE0sZsiiyz396Po4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.NameResolutionMetrics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.NameResolutionMetrics.html",
+          "hash": "KcEniVEItov595owfQGhCiw2YgoC9U1Jrm2YKgMsf10="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.NetSecurityMetrics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.NetSecurityMetrics.html",
+          "hash": "UpFu13zfRmdWVDMUZ98+mL8sNhE4NlgbSZPGLk7RnMY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.SocketsMetrics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.SocketsMetrics.html",
+          "hash": "8gfIenka6vj5EQRhDdetvlHnEeva17lfd0kF/OyLkWU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Telemetry.Consumption.html",
+          "hash": "rUd6imK8cDEj8+4NB2bB+kU5x39PWUEU1v/VxvBoJUE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.ITransformBuilder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.ITransformBuilder.html",
+          "hash": "YFwoO3vMeuipxClT7YfwtJFPF+7H2b1hwn9ca0WpLxo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.ITransformFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.ITransformFactory.html",
+          "hash": "xv3HWHh9pm7BridgnrDJkdzl8uynAbrXBLx4AkyWMsc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.ITransformProvider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.ITransformProvider.html",
+          "hash": "/LYN7oPut7F2Wb/URbYJaeyZuq8WkM5KPgSRpXf/IFM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.TransformBuilderContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.TransformBuilderContext.html",
+          "hash": "m9NOn2QTbuVLKfnEYtBhJ/LriU1a6TeBonH1t0qQCI4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.TransformClusterValidationContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.TransformClusterValidationContext.html",
+          "hash": "MWnkVtNniPdlKSOo3HmXVD/1WbK8sfSZJQUpnBx37Qo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.TransformHelpers.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.TransformHelpers.html",
+          "hash": "r8qYuNpn/Zsnu60SCyCLr5rjZ2Q8w288vC7EddkhYOQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.TransformRouteValidationContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.TransformRouteValidationContext.html",
+          "hash": "H7IpnCCQoxl+6P/o8S63WeK1ziMSo20eK1RXQd8aSYc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.Builder.html",
+          "hash": "yW5MPj19CEfVGVU6XwwCNVIc6VTCaV85s+QOH+m275c="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ForwardedTransformActions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ForwardedTransformActions.html",
+          "hash": "fCQOoqaC7bi8Nhh8WQzsM6jbHnLpZaKoPK9BSE2EdBo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ForwardedTransformExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ForwardedTransformExtensions.html",
+          "hash": "98AhUtATLXERFFuN4vEJk+/GlhxQaI+K77dIIsSQ38w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.HttpMethodChangeTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.HttpMethodChangeTransform.html",
+          "hash": "w+6sdpTDaTPQ9f693ynJnR23eG+x/LY5aidIY76sYuc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.HttpMethodTransformExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.HttpMethodTransformExtensions.html",
+          "hash": "V7j9uOJHZkISDheYfMHAq1Hup+DliuFNqxU5el0ZWSY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.NodeFormat.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.NodeFormat.html",
+          "hash": "TR5MnKq6hCjN7fACNdZVOeR+tEtLMiMFtP2qtrnw7T4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.PathRouteValuesTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.PathRouteValuesTransform.html",
+          "hash": "qqJwFxBwGJCyfD7nbAEVd8AVkgS9KYuNoklYPrSlTj8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.PathStringTransform.PathTransformMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.PathStringTransform.PathTransformMode.html",
+          "hash": "85QNZRwDQQnLGyEcOqKruEbaVKJ3kysvDW1uorBgl38="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.PathStringTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.PathStringTransform.html",
+          "hash": "R0umX+QdWGteIJ8yImEh+x9T7EV2A+JjI0Nws1bsBNk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.PathTransformExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.PathTransformExtensions.html",
+          "hash": "gT7ibtUTXafF8n0k/enmvhGvot5qyHUmhwBZNMzF9ak="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.QueryParameterFromStaticTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.QueryParameterFromStaticTransform.html",
+          "hash": "9IMHdrRBaCtYOTDpgdJkxJhPtvJyFN2mg81Y48ixwOw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.QueryParameterRemoveTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.QueryParameterRemoveTransform.html",
+          "hash": "LKK4aqlpe+R0R3JsQ2ikSgbf6NgAPRkiwyIoJhaxvnU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.QueryParameterRouteTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.QueryParameterRouteTransform.html",
+          "hash": "VUwx1/NyyiAoy9Eduw04AmFJBJqmwISmGjxq/NoE9dQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.QueryParameterTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.QueryParameterTransform.html",
+          "hash": "ZjT8/hk4BalIq7lrmfNfcrpdJ/MlZaUvJY0+LzvfcMg="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.QueryStringTransformMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.QueryStringTransformMode.html",
+          "hash": "0K3Ag23LbQMIxi9cbTyThFCG9C3YHzQ6ohw5aPgbAyc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.QueryTransformContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.QueryTransformContext.html",
+          "hash": "F5QkdEShdVt1zI6kPQxFa/wVcn0gqHXu8LlwlUPyF40="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.QueryTransformExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.QueryTransformExtensions.html",
+          "hash": "LEhNTwJY7AmIT3tRgd6N6+o/IDo1YQb9RecsnnJlL3o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestFuncTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestFuncTransform.html",
+          "hash": "OFQtVJARtoG+XycsETyfm8G5vnXFBmTOXzk6Zy7hr/I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderClientCertTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderClientCertTransform.html",
+          "hash": "aJfpCnNfUpzoe9F0vAlxkl4RBC2cvLg0ckh3UeU0wA0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderForwardedTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderForwardedTransform.html",
+          "hash": "L/6Y7QGb+uHnGaOjOLoaZnrB+vwXdvH0aVBZmjqulK0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderOriginalHostTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderOriginalHostTransform.html",
+          "hash": "lYdktNaRbJ2cuL+jI8X9hyMtoA1LZz3telD/Mkx1c7w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderRemoveTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderRemoveTransform.html",
+          "hash": "f47oidEGa0F4wR85JdwCxOWjyk/omClouioNghoLDus="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderValueTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderValueTransform.html",
+          "hash": "MQxBtwcpTyTURy7ja1ElxcQEpqMltqcAg/2ZpU8c6fc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderXForwardedForTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderXForwardedForTransform.html",
+          "hash": "XaCnYsu//wqiWTPbt4HWPfIdYWcbU+8PX/Ndg4304t0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderXForwardedHostTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderXForwardedHostTransform.html",
+          "hash": "oUxPKbqLvkyWwQs8dqnxOMBgyEJitaV7/BqocvrL6eU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderXForwardedPrefixTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderXForwardedPrefixTransform.html",
+          "hash": "nHeMI8A0JoPSz3UMq6GuQ/b2Z09g0pZyNA/Nt5L7wf0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderXForwardedProtoTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeaderXForwardedProtoTransform.html",
+          "hash": "AgO1uNI//exf7GZ+4Q6jIA6IjwU+QdxXGKXQiL5LK/w="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeadersTransformExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestHeadersTransformExtensions.html",
+          "hash": "cCuxOJA4DwaTVKZOIIN4G42DKuPjAH4i8ksR1tBog1Q="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestTransform.html",
+          "hash": "YfreNhO62NZbCWYO04EqVMVKcr1aJ5gVEpjL/Cf6s2I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RequestTransformContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RequestTransformContext.html",
+          "hash": "oooQsFufSXrXYnYHvP6QPellT4eQYTs4rXUAGUpPfms="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseFuncTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseFuncTransform.html",
+          "hash": "ryayl4/P+ioSSZ6PMUnipC9wU9VaaSRA/JaQrUbn9NA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseHeaderRemoveTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseHeaderRemoveTransform.html",
+          "hash": "1tiGcnv/3UgqHoJCk++eh92LZNx1ppECyOpU3hvWn9s="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseHeaderValueTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseHeaderValueTransform.html",
+          "hash": "+fnwsA5MVTivT+2tLy4yS243OnC9TUJwHjH9YzZf91M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailerRemoveTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailerRemoveTransform.html",
+          "hash": "bT+9QR+QV7avUqzOouK7iPZWLbzBVA6aKBSdaGVV8tk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailerValueTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailerValueTransform.html",
+          "hash": "0VDfUzy9OHJWn5sJ99XpFtcCgeQyf3upn4DZcL4uBHQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailersFuncTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailersFuncTransform.html",
+          "hash": "sRyZlr2hkvH6l7psfnAGdVZZEc21RchO9PPoC8dVDPU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailersTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailersTransform.html",
+          "hash": "ypQ0lYuK/GupZ9KgXGHAaGu5HgrWJiKIeoZVfd7qLCs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailersTransformContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTrailersTransformContext.html",
+          "hash": "1Q1G37j0/mjl2/oAd+yIaeyG2N+31SuhIkt4W+7NJmM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTransform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTransform.html",
+          "hash": "D1mjAH/spNvMBKH9bIAn4JVBGxwRZXZnPp3IUdp2kAY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTransformContext.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTransformContext.html",
+          "hash": "KopIOqSKu8GMJNGLvVRrWLlGTkhwm4GA9xKPqEkSZ3I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTransformExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.ResponseTransformExtensions.html",
+          "hash": "R1iJNfAARewwVTVTQwhlvM3hKAS7eV+PWWE32sDdB7M="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.RouteConfigTransformExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.RouteConfigTransformExtensions.html",
+          "hash": "3O7AfTkDO3GYyvd6vpGEfATRaJXJV/kfIkCU5mbVnk8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.TransformBuilderContextFuncExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.TransformBuilderContextFuncExtensions.html",
+          "hash": "6yyNYnZ2eLZazxhhkdGVIbW5iisS71vvASBj4N9/2rE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Transforms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Transforms.html",
+          "hash": "uv7dvAkw32GKWD3W38Bcnan68fK31GMzLSMWojEXFWs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.IClock.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.IClock.html",
+          "hash": "rBN+6NFmB+6E24zQDjQcnhrfllGz+xVJUDQ5OiPb1qw="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.IRandomFactory.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.IRandomFactory.html",
+          "hash": "d6DmxgurQvQSsIqqw/To+8TtUgR0j3zpqSD0uLh537k="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.ExtensionType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.ExtensionType.html",
+          "hash": "a9kBxP3PcAu7oiTImVZVtSMyAZ1fbOelqugqcVXhyGs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsAlertDescription.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsAlertDescription.html",
+          "hash": "XB4NUKjyKfnMuWUADb0/f9uWUBVXjk0mbIa44T5Wkac="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsAlertLevel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsAlertLevel.html",
+          "hash": "HFm6X5iVhHJRxr3mhu6FWpVr2KHNw3iy30bxnxrwVss="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsContentType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsContentType.html",
+          "hash": "ZC37gyXwwDpo/of0W9TLz+HV5Hgy2Wwvv/gdv6m9GRc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHeader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHeader.html",
+          "hash": "HCA3Oh9IhpVRSYRtfRh1Sndaadx6bmiFDw5IqwvUax0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.ApplicationProtocolInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.ApplicationProtocolInfo.html",
+          "hash": "BAibiXPX/cqWJOaHoIMyU7UcUQ0Oms/pWoi4GjmOVmk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.HelloExtensionCallback.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.HelloExtensionCallback.html",
+          "hash": "KiaKKiFT0eKWDeDSpRPY3yE9SA6/+aDDGy4KHv72qes="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.ProcessingOptions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.ProcessingOptions.html",
+          "hash": "CUhaRIEB+6y4P6214xmhqEUfyYxa9icFsCQejvUtOmc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.TlsFrameInfo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.TlsFrameInfo.html",
+          "hash": "QnWSCKTZTybmm2kK881NCICSMBNIKvwHHbu5rjNhJf4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsFrameHelper.html",
+          "hash": "hrZAxZNu7wQxMCFXlqzVnpe6FxEZQiTQEm0syfSpQkU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsHandshakeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.TlsHandshakeType.html",
+          "hash": "mMHyKGj+6ktQ/rp/pX0vw6W+gChIQEXof29dj/WhSRc="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.Tls.html",
+          "hash": "gGnGBKgxZI3QMdk+VxHEvZlgass6+/TdSn8ZTHNsZRY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Yarp.ReverseProxy.Utilities.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Yarp.ReverseProxy.Utilities.html",
+          "hash": "OsfgXniESr+3NizCMpSgWkoCynlb5EzYeWPGhGn7ZNE="
         }
       },
       "is_incremental": false,
@@ -741,7 +4557,31 @@
       "output": {
         ".html": {
           "relative_path": "api/index.html",
-          "hash": "3QtCNC01d92mykx1L1Fh0w=="
+          "hash": "HwqD93XOFYX1xuH+O9lrb2lHrpmVJrAghZ0+WlyHh2E="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/k8s.KubernetesHelpersExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/k8s.KubernetesHelpersExtensions.html",
+          "hash": "lLwZU6rEMqVftbU8FGbvExul2bizVDIv+z3PpFSaJr8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/k8s.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/k8s.html",
+          "hash": "ifs12+ALsGWM346dcapoqK329EJ6MISGcTNG17Q32f8="
         }
       },
       "is_incremental": false,
@@ -753,7 +4593,142 @@
       "output": {
         ".html": {
           "relative_path": "api/toc.html",
-          "hash": "mpGk++IbpqiMMAvOjEk00g=="
+          "hash": "F11V+YcCQwduAtS6cnpzs1Dr4odJz/rWPrpOilBwtO8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/authn-authz.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/authn-authz.html",
+          "hash": "6fOft4MfU4eoVonRhvTkCECBPqrsXVJo6CUcYBT5syo="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/config-files.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/config-files.html",
+          "hash": "pQitgI+L0ynEBaa4axOAhW0CXegTLQPS56o7AD3IUeE="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/config-providers.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/config-providers.html",
+          "hash": "75+9OA3Lf5wKulIs8I7Kq6vTtu+W55Bz6Y0du2toi2o="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/cors.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/cors.html",
+          "hash": "E8wziRguRQZLREo/Px4WWKocLeWcRXNRKKvuA+xsdkI="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/dests-health-checks.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/dests-health-checks.html",
+          "hash": "9QOmqgmqi35EION4sljLQ5BLCfeHGJCENOr1Kusr1nY="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/direct-forwarding.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/direct-forwarding.html",
+          "hash": "cKx4mwmaT8u53H99XBQUa/5NRIOMb7ZQk7mCjNqQ0Io="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/getting-started.html",
+          "hash": "Q9Az89Spe1ubPNyuaJ1xODCYNrpWcx0FaX3gJtAp+eU="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/grpc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/grpc.html",
+          "hash": "6FdFWBNnisSbm9xqXBj3yXvrFhCViG0BNtccwUItIiA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/header-routing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/header-routing.html",
+          "hash": "/pBFOIG7dU0i+C1c0kgi9Bc0ycf9JTqZfzmrxdFDUMk="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/http-client-config.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/http-client-config.html",
+          "hash": "0IyBx510BKci/EO6Qg5Qu8X2IuSjeus182O7sZOT3p4="
         }
       },
       "is_incremental": false,
@@ -765,7 +4740,104 @@
       "output": {
         ".html": {
           "relative_path": "articles/index.html",
-          "hash": "PhAK2BFOYumVGLAlOm+1PA=="
+          "hash": "FhWv0SEkj7NATMFWrCEpFqkYFSuIu7Pf1NENVDK/RkA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/kubernetes-ingress.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/kubernetes-ingress.html",
+          "hash": "pkTE5KqudURkbnfJTsmv+ly4FahItlHCiRZW0F62Ke8="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/load-balancing.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/load-balancing.html",
+          "hash": "/cxzVJx/iUYSMNK2KhSuDbY9Er3aFuJYx+30UgUQ5YM="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/middleware.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/middleware.html",
+          "hash": "2SvsdQkSFFN34nmGyN6CLXf1FM+XZLfv9MpR+5yoMss="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/packages-refs.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/packages-refs.html",
+          "hash": "Mb4COsqWctwvKsujtTW7mIB3Atblf15/rjzTR28CJfs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/runtimes.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/runtimes.html",
+          "hash": "N5coqqOPZrydIrU6N02EkFeupAPn9uzA4oJEouNgV1g="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "log_codes": [
+        "InvalidFileLink",
+        "UidNotFound"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "articles/service-fabric-int.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/service-fabric-int.html",
+          "hash": "/kJ8t4Nvo8r8SWMXja9wKOhS5WkL7U/f7AZgwhJFm1I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/session-affinity.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/session-affinity.html",
+          "hash": "JTF6swGFdj4+SGdRIxV/FjsqGdLG91Voi9byy0mOzrc="
         }
       },
       "is_incremental": false,
@@ -777,31 +4849,37 @@
       "output": {
         ".html": {
           "relative_path": "articles/toc.html",
-          "hash": "zNA5vpEPSUnrbQwTDNxClg=="
+          "hash": "JlSeksrtAyQXsLdJq9iyLXL3N8VQHne0F5b8K3M978c="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "Conceptual",
-      "source_relative_path": "articles/tutorial.md",
+      "source_relative_path": "articles/transforms.md",
       "output": {
         ".html": {
-          "relative_path": "articles/tutorial.html",
-          "hash": "7Nia56pZjCYOR8e1azaecw=="
+          "relative_path": "articles/transforms.html",
+          "hash": "wjGtoCExATAUZJAZxohr+CLpAJxBW+sTK6uob6Mdajo="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "UidNotFound"
+      ],
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "YzbDVMKsK8BEp5nx5b2TGw=="
+          "hash": "m9HwR4GaHjdN0dVWL/lvGoLoxa2ZWLoSR0lD3Bzk7s4="
         }
       },
       "is_incremental": false,
@@ -813,7 +4891,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "bNrJ9RNkoQTJnO7ZgB3M6Q=="
+          "hash": "S7mZV65zdzCx13bjav22se+xokTuVvm1XxDH01ZErhY="
         }
       },
       "is_incremental": false,
@@ -834,13 +4912,13 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 4,
+          "total_file_count": 22,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 61,
+          "total_file_count": 380,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {
